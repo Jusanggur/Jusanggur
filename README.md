@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jusanggur
-- 👀 I’m interested in MySQL
+- 👀 I’m interested in Java and MySQL
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on Java and other...
+- 💞️ I’m looking to collaborate on Java and others...
 - 📫 How to reach me on twitter @Jaum_v_
 
 <!---
