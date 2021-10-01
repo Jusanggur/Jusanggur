@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jusanggur
-- 👀 I’m interested in Java and MySQL
-- 🌱 I’m currently learning HTML and CSS
+- 👋 Hi, I’m @Jusanggur or any nickname, being cute I answer.
+- 👀 I’m interested in Java and MySQL.
+- 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on Java and others...
 - 📫 How to reach me on twitter @Jaum_v_
 
