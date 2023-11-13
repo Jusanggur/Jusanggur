@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile, Back, Front and Fullstack.
 - 🌱 I’m currently learning Flutter, Dart and C#.
 - 💞️ I’m looking to collaborate on Java, Java with Spring and others languages.
-- 📫 How to reach me on twitter @Jaum_v_ or @jusangur on Instagram
+- 📫 How to reach me on twitter @Jaum_v_ or @jaum.eskelsen on Instagram
 
 <!---
 Jusanggur/Jusanggur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
